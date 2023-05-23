@@ -1,1 +1,1 @@
-# pug-sass-gulp
+# Gulp, Pug, Sass, Browsersync Setup
